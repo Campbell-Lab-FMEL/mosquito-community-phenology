@@ -10,12 +10,9 @@ We leveraged long-term mosquito control district monitoring data to characterize
 The scripts document data preparation and analyses conducted for this study and contain example code for plotting model outputs. 
 
 * **phenometric_calc.r**
-
   * Calculates phenometrics for the 7 species included in the analyses using the `rbms` package [^1]
-
-
+  
 * **environ_variables_models.r** 
-
   * Assembles environmental variables and phenometrics into an analysis-ready dataset. 
   * Runs models
 
@@ -23,17 +20,22 @@ The scripts document data preparation and analyses conducted for this study and 
 
 * IL_00_20_red_spp_LONG.csv
   * All recorded mosquito species, used in `phenometric_calc.r` to calculate mosquito phenometrics
+ 
 * IL_LC_clim_sites_summaries.csv
-  * Assembled environmental variables (landcover and climate variables), used in `environ_variables_models.r`    
+  * Assembled environmental variables (landcover and climate variables), used in `environ_variables_models.r`   
+  
 * mospheno_clim_summary4_traits.csv 
   * Assembled environmental variables and phenometrics, generated and used for model fitting in `environ_variables_models.r`
+ 
 * mosquitoILphenomets.csv 
   * Phenometrics for the 7 mosquito species included in the analyses, calculated using `phenometric_calc.r`
+ 
 * site_lc_lookup3.csv
   * Coordinates of sampling sites, used in `environ_variables_models.r`
 
-
-
+<br/>
+<br/>
+<br/>
 
 *This repository contains the version of the code and data files at the time of manuscript submission, which may undergo changes in future*
 
