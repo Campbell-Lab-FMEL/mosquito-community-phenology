@@ -1,6 +1,6 @@
 # mosquito-community-phenology
 
-This repository accompanies the manuscript **"Climate, landscape, and life history jointly predict multidecadal community mosquito phenology"** by Lindsay P. Campbell, Mohamed F. Sallam, Amely M. Bauer, Yasmin Tavares, Robert P. Guralnick
+This repository accompanies the manuscript **"Climate, landscape, and life history jointly predict multidecadal community mosquito phenology"** by Lindsay P. Campbell, Mohamed F. Sallam, Amely M. Bauer, Yasmin Tavares, Robert P. Guralnick, https://doi.org/10.1038/s41598-023-30751-4. 
 
 We leveraged long-term mosquito control district monitoring data to characterize annual phenologies of host-seeking female mosquito species over two decades in suburban Illinois, USA. We also assembled data on landscape context, categorized into low and medium development, climate variables including precipitation, temperature and humidity, and key life history traits, i.e. overwintering stage and early versus late-season fliers that were included as predictor variables in linear mixed models seperately fitted for adult onset, peak abundances, and flight termination.
 
